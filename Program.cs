@@ -23,7 +23,7 @@ namespace HavaDurumu
             }
             else
             {
-                Console.WriteLine("Hava sıcak. Havalar sıcakken en çok tercih edilen keten kumaşlardan kıyafetler tercih edebilirsiniz. Hem ince ve ferah hem de sıcak havalara birebir.");
+                Console.WriteLine("Hava sıcak. Havalar sıcakken en çok tercih edilen keten kumaşlardan kıyafetler tercih edebilirsiniz. Aksesuarlarınızı da unutmayın. Şapka, güneş gözlüğü...");
             }
 
             Console.ReadLine();
